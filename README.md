@@ -26,7 +26,7 @@ INTRODUCTION
 *********************
 
 VGAmod is a proof of concept Software Defined Radio IQ modulator signal generator
-inpired by the amazing work of Fabrice Bellard (www.bellard.org). Certain 
+inspired by the amazing work of Fabrice Bellard (www.bellard.org). Certain 
 functionality was cribbed from the author of VGAsig, an FM transmitter by Bartek 
 Kania.
 
